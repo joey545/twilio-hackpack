@@ -15,3 +15,4 @@ venv
 *.coverage
 hackpack.egg-info
 hackpack/local_settings.py
+local_settings.py
